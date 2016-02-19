@@ -8,5 +8,6 @@ namespace ConsoleApplication
 {
     class branch1
     {
+        //2. Edit in branch1 after commit in branch2
     }
 }
